@@ -11,7 +11,14 @@
     "icon.foreground": "#F5F5F5",
     "sash.hoverBorder": "#FCE393",
     "window.activeBorder": "#ff0000",
-    "window.inactiveBorder": "#ff0000"
+    "window.inactiveBorder": "#ff0000",
+    "textBlockQuote.background": "#1f1f1f",
+    "textBlockQuote.border": "#FCE393",
+    "textCodeBlock.background": "#ff0000",
+    "textLink.activeForeground": "#89cdf2",
+    "textLink.foreground": "#129be5",
+    "textPreformat.foreground": "#FCE393",
+    "textSeparator.foreground": "#ff0000"
   },
   "tokenColors": []
 }
