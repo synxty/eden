@@ -33,7 +33,23 @@
     "dropdown.background": "#1F1F1F",
     "dropdown.border": "#141414",
     "dropdown.foreground": "#f5f5f5",
-    "dropdown.listBackground": "#1F1F1F"
+    "dropdown.listBackground": "#1F1F1F",
+    "input.background": "#141414",
+    "input.border": "#141414",
+    "input.foreground": "#f5f5f5",
+    "input.placeholderForeground": "#8F8F8F",
+    "inputOption.activeBackground": "#fce393",
+    "inputOption.activeForeground": "#292929",
+    "inputOption.hoverBackground": "#292929",
+    "inputValidation.errorBackground": "#F4413E",
+    "inputValidation.errorBorder": "#F4413E",
+    "inputValidation.errorForeground": "#f5f5f5",
+    "inputValidation.infoBackground": "#129be5",
+    "inputValidation.infoBorder": "#129be5",
+    "inputValidation.infoForeground": "#f5f5f5",
+    "inputValidation.warningBackground": "#FFA337",
+    "inputValidation.warningBorder": "#FFA337",
+    "inputValidation.warningForeground": "#f5f5f5"
   },
   "tokenColors": []
 }
