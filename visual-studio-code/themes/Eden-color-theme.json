@@ -58,8 +58,8 @@
     "badge.foreground": "#f5f5f5",
     "progressBar.background": "#FCE393",
     "list.activeSelectionBackground": "#292929",
-    "list.activeSelectionForeground": "#E0E0E0",
-    "list.activeSelectionIconForeground": "#f5f5f5",
+    "list.activeSelectionForeground": "#e0e0e0",
+    "list.activeSelectionIconForeground": "#FCE393",
     "list.dropBackground": "#3D3D3D55",
     "list.focusBackground": "#141414",
     "list.focusForeground": "#f5f5f5",
@@ -70,7 +70,7 @@
     "list.hoverForeground": "#f5f5f5",
     "list.inactiveSelectionBackground": "#141414",
     "list.inactiveSelectionForeground": "#f5f5f5",
-    "list.inactiveSelectionIconForeground": "#f5f5f5",
+    "list.inactiveSelectionIconForeground": "#FCE393",
     "list.inactiveFocusBackground": "#141414",
     "list.invalidItemForeground": "#ff0000",
     "list.errorForeground": "#F4413E",
@@ -350,7 +350,16 @@
     "notificationsInfoIcon.foreground": "#129be5",
     "banner.background": "#ff0000",
     "banner.foreground": "#ff0000",
-    "banner.iconForeground": "#ff0000"
+    "banner.iconForeground": "#ff0000",
+    "extensionButton.prominentForeground": "#292929",
+    "extensionButton.prominentBackground": "#FCE393",
+    "extensionButton.prominentHoverBackground": "#fdebb3",
+    "extensionBadge.remoteBackground": "#1f1f1f",
+    "extensionBadge.remoteForeground": "#f5f5f5",
+    "extensionIcon.starForeground": "#f8c727",
+    "extensionIcon.verifiedForeground": "#71c3ef",
+    "extensionIcon.preReleaseForeground": "#9d44b5",
+    "extensionIcon.sponsorForeground": "#f77a78"
   },
   "tokenColors": []
 }
