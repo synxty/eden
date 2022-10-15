@@ -53,7 +53,9 @@
     "scrollbarSlider.activeBackground": "#47474766",
     "scrollbarSlider.background": "#29292966",
     "scrollbarSlider.hoverBackground": "#33333366",
-    "scrollbar.shadow": "#0A0A0A"
+    "scrollbar.shadow": "#0A0A0A",
+    "badge.background": "#292929",
+    "badge.foreground": "#f5f5f5"
   },
   "tokenColors": []
 }
