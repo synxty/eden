@@ -361,13 +361,17 @@
     "extensionIcon.preReleaseForeground": "#9d44b5",
     "extensionIcon.sponsorForeground": "#f77a78",
     "pickerGroup.border": "#141414",
-    "pickerGroup.foreground": "#f5f5f5",
+    "pickerGroup.foreground": "#FCE393",
     "quickInput.background": "#1f1f1f",
     "quickInput.foreground": "#D6D6D6",
     "quickInputList.focusBackground": "#141414",
     "quickInputList.focusForeground": "#f5f5f5",
     "quickInputList.focusIconForeground": "#FCE393",
-    "quickInputTitle.background": "#ff0000"
+    "quickInputTitle.background": "#ff0000",
+    "keybindingLabel.background": "#1f1f1f",
+    "keybindingLabel.foreground": "#f5f5f5",
+    "keybindingLabel.border": "#141414",
+    "keybindingLabel.bottomBorder": "#141414"
   },
   "tokenColors": []
 }
