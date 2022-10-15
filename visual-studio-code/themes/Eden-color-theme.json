@@ -83,8 +83,8 @@
     "list.filterMatchBorder": "#ff0000",
     "list.deemphasizedForeground": "#ff0000",
     "tree.indentGuidesStroke": "#141414",
-    "tree.tableColumnsBorder": "#ff0000",
-    "tree.tableOddRowsBackground": "#ff0000",
+    "tree.tableColumnsBorder": "#0A0A0A",
+    "tree.tableOddRowsBackground": "#1f1f1f",
     "activityBar.background": "#141414",
     "activityBar.dropBorder": "#FCE393",
     "activityBar.foreground": "#FCE393",
@@ -371,7 +371,9 @@
     "keybindingLabel.background": "#1f1f1f",
     "keybindingLabel.foreground": "#f5f5f5",
     "keybindingLabel.border": "#141414",
-    "keybindingLabel.bottomBorder": "#141414"
+    "keybindingLabel.bottomBorder": "#141414",
+    "keybindingTable.headerBackground": "#292929",
+    "keybindingTable.rowsBackground": "#1f1f1f"
   },
   "tokenColors": []
 }
