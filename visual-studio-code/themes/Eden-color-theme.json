@@ -437,7 +437,12 @@
     "testing.message.error.decorationForeground": "#ff0000",
     "testing.message.error.lineBackground": "#ff0000",
     "testing.message.info.decorationForeground": "#ff0000",
-    "testing.message.info.lineBackground": "#ff0000"
+    "testing.message.info.lineBackground": "#ff0000",
+    "welcomePage.background": "#141414",
+    "welcomePage.progress.background": "#292929",
+    "welcomePage.progress.foreground": "#FCE393",
+    "welcomePage.tileBackground": "#1F1F1F",
+    "welcomePage.tileHoverBackground": "#292929"
   },
   "tokenColors": []
 }
