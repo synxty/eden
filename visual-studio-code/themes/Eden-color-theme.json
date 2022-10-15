@@ -105,7 +105,19 @@
     "sideBarTitle.foreground": "#f5f5f5",
     "sideBarSectionHeader.background": "#1f1f1f",
     "sideBarSectionHeader.foreground": "#E0E0E0",
-    "sideBarSectionHeader.border": "#333333"
+    "sideBarSectionHeader.border": "#333333",
+    "minimap.findMatchHighlight": "#FCE393",
+    "minimap.selectionHighlight": "#FCE393",
+    "minimap.errorHighlight": "#F4413E",
+    "minimap.warningHighlight": "#FFA337",
+    "minimap.background": "#141414",
+    "minimap.selectionOccurrenceHighlight": "#FCE393",
+    "minimapSlider.background": "#29292966",
+    "minimapSlider.hoverBackground": "#33333366",
+    "minimapSlider.activeBackground": "#47474766",
+    "minimapGutter.addedBackground": "#0ac254",
+    "minimapGutter.modifiedBackground": "#129be5",
+    "minimapGutter.deletedBackground": "#F4413E"
   },
   "tokenColors": []
 }
