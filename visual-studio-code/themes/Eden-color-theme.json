@@ -1,5 +1,15 @@
 {
   "name": "Eden",
-  "colors": {},
+  "colors": {
+    "focusBorder": "#FCE393",
+    "foreground": "#D6D6D6",
+    "disabledForeground": "#707070",
+    "widget.shadow": "#141414",
+    "selection.background": "#707070",
+    "descriptionForeground": "#999999",
+    "errorForeground": "#F4413E",
+    "icon.foreground": "#F5F5F5",
+    "sash.hoverBorder": "#FCE393"
+  },
   "tokenColors": []
 }
