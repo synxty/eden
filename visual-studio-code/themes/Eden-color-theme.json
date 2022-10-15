@@ -265,7 +265,21 @@
     "editorMarkerNavigationInfo.background": "#ff0000",
     "editorMarkerNavigationError.headerBackground": "#ff0000",
     "editorMarkerNavigationWarning.headerBackground": "#ff0000",
-    "editorMarkerNavigationInfo.headerBackground": "#ff0000"
+    "editorMarkerNavigationInfo.headerBackground": "#ff0000",
+    "peekView.border": "#ff0000",
+    "peekViewEditor.background": "#ff0000",
+    "peekViewEditorGutter.background": "#ff0000",
+    "peekViewEditor.matchHighlightBackground": "#ff0000",
+    "peekViewEditor.matchHighlightBorder": "#ff0000",
+    "peekViewResult.background": "#ff0000",
+    "peekViewResult.fileForeground": "#ff0000",
+    "peekViewResult.lineForeground": "#ff0000",
+    "peekViewResult.matchHighlightBackground": "#ff0000",
+    "peekViewResult.selectionBackground": "#ff0000",
+    "peekViewResult.selectionForeground": "#ff0000",
+    "peekViewTitle.background": "#ff0000",
+    "peekViewTitleDescription.foreground": "#ff0000",
+    "peekViewTitleLabel.foreground": "#ff0000"
   },
   "tokenColors": []
 }
