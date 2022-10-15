@@ -57,7 +57,7 @@
     "badge.background": "#292929",
     "badge.foreground": "#f5f5f5",
     "progressBar.background": "#FCE393",
-    "list.activeSelectionBackground": "#1f1f1f",
+    "list.activeSelectionBackground": "#292929",
     "list.activeSelectionForeground": "#E0E0E0",
     "list.activeSelectionIconForeground": "#f5f5f5",
     "list.dropBackground": "#3D3D3D55",
@@ -68,7 +68,7 @@
     "list.focusAndSelectionOutline": "#1F1F1F",
     "list.hoverBackground": "#292929",
     "list.hoverForeground": "#f5f5f5",
-    "list.inactiveSelectionBackground": "#292929",
+    "list.inactiveSelectionBackground": "#141414",
     "list.inactiveSelectionForeground": "#f5f5f5",
     "list.inactiveSelectionIconForeground": "#f5f5f5",
     "list.inactiveFocusBackground": "#141414",
@@ -97,7 +97,15 @@
     "activityBar.activeFocusBorder": "#fdebb3",
     "activityBarItem.settingsProfilesForeground": "#7A7A7A",
     "activityBarItem.settingsProfilesBackground": "#141414",
-    "activityBarItem.settingsProfilesHoverForeground": "#FCE393"
+    "activityBarItem.settingsProfilesHoverForeground": "#FCE393",
+    "sideBar.background": "#1F1F1F",
+    "sideBar.foreground": "#D6D6D6",
+    "sideBar.border": "#333333",
+    "sideBar.dropBackground": "#3D3D3D55",
+    "sideBarTitle.foreground": "#f5f5f5",
+    "sideBarSectionHeader.background": "#1f1f1f",
+    "sideBarSectionHeader.foreground": "#E0E0E0",
+    "sideBarSectionHeader.border": "#333333"
   },
   "tokenColors": []
 }
