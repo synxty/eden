@@ -9,7 +9,9 @@
     "descriptionForeground": "#999999",
     "errorForeground": "#F4413E",
     "icon.foreground": "#F5F5F5",
-    "sash.hoverBorder": "#FCE393"
+    "sash.hoverBorder": "#FCE393",
+    "window.activeBorder": "#ff0000",
+    "window.inactiveBorder": "#ff0000"
   },
   "tokenColors": []
 }
