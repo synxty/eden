@@ -407,7 +407,24 @@
     "terminalCommandDecoration.successBackground": "#0ac254",
     "terminalCommandDecoration.errorBackground": "#F4413E",
     "terminalOverviewRuler.cursorForeground": "#ff0000",
-    "terminalOverviewRuler.findMatchForeground": "#ff0000"
+    "terminalOverviewRuler.findMatchForeground": "#ff0000",
+    "debugToolBar.background": "#ff0000",
+    "debugToolBar.border": "#ff0000",
+    "editor.stackFrameHighlightBackground": "#ff0000",
+    "editor.focusedStackFrameHighlightBackground": "#ff0000",
+    "editor.inlineValuesForeground": "#ff0000",
+    "editor.inlineValuesBackground": "#ff0000",
+    "debugView.exceptionLabelForeground": "#ff0000",
+    "debugView.exceptionLabelBackground": "#ff0000",
+    "debugView.stateLabelForeground": "#ff0000",
+    "debugView.stateLabelBackground": "#ff0000",
+    "debugView.valueChangedHighlight": "#ff0000",
+    "debugTokenExpression.name": "#ff0000",
+    "debugTokenExpression.value": "#ff0000",
+    "debugTokenExpression.string": "#ff0000",
+    "debugTokenExpression.boolean": "#ff0000",
+    "debugTokenExpression.number": "#ff0000",
+    "debugTokenExpression.error": "#ff0000"
   },
   "tokenColors": []
 }
