@@ -18,7 +18,9 @@
     "textLink.activeForeground": "#89cdf2",
     "textLink.foreground": "#129be5",
     "textPreformat.foreground": "#FCE393",
-    "textSeparator.foreground": "#ff0000"
+    "textSeparator.foreground": "#ff0000",
+    "toolbar.activeBackground": "#474747",
+    "toolbar.hoverBackground": "#292929"
   },
   "tokenColors": []
 }
