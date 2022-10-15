@@ -117,7 +117,16 @@
     "minimapSlider.activeBackground": "#47474766",
     "minimapGutter.addedBackground": "#0ac254",
     "minimapGutter.modifiedBackground": "#129be5",
-    "minimapGutter.deletedBackground": "#F4413E"
+    "minimapGutter.deletedBackground": "#F4413E",
+    "editorGroup.border": "#333333",
+    "editorGroup.dropBackground": "#3D3D3D55",
+    "editorGroupHeader.noTabsBackground": "#ff0000",
+    "editorGroupHeader.tabsBackground": "#141414",
+    "editorGroupHeader.border": "#0A0A0A",
+    "editorGroup.emptyBackground": "#141414",
+    "editorGroup.dropIntoPromptForeground": "#f5f5f5",
+    "editorGroup.dropIntoPromptBackground": "#1f1f1f",
+    "editorGroup.dropIntoPromptBorder": "#292929"
   },
   "tokenColors": []
 }
