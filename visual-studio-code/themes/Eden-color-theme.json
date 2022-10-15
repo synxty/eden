@@ -338,7 +338,16 @@
     "commandCenter.foreground": "#666666",
     "commandCenter.activeForeground": "#f5f5f5",
     "commandCenter.background": "#141414",
-    "commandCenter.activeBackground": "#292929"
+    "commandCenter.activeBackground": "#292929",
+    "notificationCenterHeader.background": "#1F1F1F",
+    "notificationCenterHeader.foreground": "#f5f5f5",
+    "notifications.background": "#141414",
+    "notifications.foreground": "#f5f5f5",
+    "notifications.border": "#0A0A0A",
+    "notificationLink.foreground": "#ff0000",
+    "notificationsErrorIcon.foreground": "#F4413E",
+    "notificationsWarningIcon.foreground": "#FFA337",
+    "notificationsInfoIcon.foreground": "#129be5"
   },
   "tokenColors": []
 }
