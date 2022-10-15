@@ -308,7 +308,22 @@
     "panelSection.dropBackground": "#ff0000",
     "panelSectionHeader.background": "#ff0000",
     "panelSectionHeader.border": "#ff0000",
-    "panelSectionHeader.foreground": "#ff0000"
+    "panelSectionHeader.foreground": "#ff0000",
+    "statusBar.background": "#141414",
+    "statusBar.foreground": "#f5f5f5",
+    "statusBar.debuggingBackground": "#F4413E",
+    "statusBar.debuggingForeground": "#f5f5f5",
+    "statusBar.debuggingBorder": "#FCE393",
+    "statusBarItem.activeBackground": "#fdeebe",
+    "statusBarItem.remoteBackground": "#FCE393",
+    "statusBarItem.remoteForeground": "#141414",
+    "statusBar.noFolderBackground": "#9782b3",
+    "statusBar.noFolderForeground": "#292929",
+    "statusBarItem.errorBackground": "#F4413E",
+    "statusBarItem.errorForeground": "#ffffff",
+    "statusBarItem.warningBackground": "#FFA337",
+    "statusBarItem.warningForeground": "#ffffff",
+    "statusBar.focusBorder": "#FCE393"
   },
   "tokenColors": []
 }
