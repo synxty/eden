@@ -424,7 +424,20 @@
     "debugTokenExpression.string": "#ff0000",
     "debugTokenExpression.boolean": "#ff0000",
     "debugTokenExpression.number": "#ff0000",
-    "debugTokenExpression.error": "#ff0000"
+    "debugTokenExpression.error": "#ff0000",
+    "testing.iconFailed": "#ff0000",
+    "testing.iconErrored": "#ff0000",
+    "testing.iconPassed": "#ff0000",
+    "testing.runAction": "#ff0000",
+    "testing.iconQueued": "#ff0000",
+    "testing.iconUnset": "#ff0000",
+    "testing.iconSkipped": "#ff0000",
+    "testing.peekBorder": "#ff0000",
+    "testing.peekHeaderBackground": "#ff0000",
+    "testing.message.error.decorationForeground": "#ff0000",
+    "testing.message.error.lineBackground": "#ff0000",
+    "testing.message.info.decorationForeground": "#ff0000",
+    "testing.message.info.lineBackground": "#ff0000"
   },
   "tokenColors": []
 }
