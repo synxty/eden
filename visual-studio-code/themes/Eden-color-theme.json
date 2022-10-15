@@ -229,7 +229,15 @@
     "editorWidget.background": "#1f1f1f",
     "editorWidget.foreground": "#f5f5f5",
     "editorWidget.border": "#1f1f1f",
-    "editorSuggestWidget.border": "#333333"
+    "editorSuggestWidget.border": "#333333",
+    "diffEditor.insertedTextBackground": "#0ac25488",
+    "diffEditor.removedTextBackground": "#F4413E88",
+    "diffEditor.border": "#141414",
+    "diffEditor.diagonalFill": "#292929",
+    "diffEditor.insertedLineBackground": "#0ac25444",
+    "diffEditor.removedLineBackground": "#F4413E44",
+    "diffEditorOverview.insertedForeground": "#0ac254",
+    "diffEditorOverview.removedForeground": "#F4413E"
   },
   "tokenColors": []
 }
