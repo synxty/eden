@@ -347,7 +347,10 @@
     "notificationLink.foreground": "#ff0000",
     "notificationsErrorIcon.foreground": "#F4413E",
     "notificationsWarningIcon.foreground": "#FFA337",
-    "notificationsInfoIcon.foreground": "#129be5"
+    "notificationsInfoIcon.foreground": "#129be5",
+    "banner.background": "#ff0000",
+    "banner.foreground": "#ff0000",
+    "banner.iconForeground": "#ff0000"
   },
   "tokenColors": []
 }
