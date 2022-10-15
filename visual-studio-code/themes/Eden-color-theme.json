@@ -471,7 +471,16 @@
     "settings.numberInputBorder": "#1F1F1F",
     "settings.focusedRowBackground": "#292929",
     "settings.focusedRowBorder": "#FCE393",
-    "settings.sashBorder": "#0a0a0a"
+    "settings.sashBorder": "#0a0a0a",
+    "breadcrumb.foreground": "#B8B8B8",
+    "breadcrumb.background": "#141414",
+    "breadcrumb.focusForeground": "#FCE393",
+    "breadcrumb.activeSelectionForeground": "#FCE393",
+    "breadcrumbPicker.background": "#1f1f1f",
+    "editor.snippetTabstopHighlightBackground": "#0A0A0A",
+    "editor.snippetTabstopHighlightBorder": "#FCE393",
+    "editor.snippetFinalTabstopHighlightBackground": "#ff0000",
+    "editor.snippetFinalTabstopHighlightBorder": "#FCE393"
   },
   "tokenColors": []
 }
