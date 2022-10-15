@@ -20,7 +20,16 @@
     "textPreformat.foreground": "#FCE393",
     "textSeparator.foreground": "#ff0000",
     "toolbar.activeBackground": "#474747",
-    "toolbar.hoverBackground": "#292929"
+    "toolbar.hoverBackground": "#292929",
+    "button.background": "#FCE393",
+    "button.foreground": "#292929",
+    "button.hoverBackground": "#fad868",
+    "button.secondaryBackground": "#333333",
+    "button.secondaryForeground": "#F5F5F5",
+    "button.secondaryHoverBackground": "#474747",
+    "checkbox.background": "#141414",
+    "checkbox.border": "#292929",
+    "checkbox.foreground": "#F5F5F5"
   },
   "tokenColors": []
 }
