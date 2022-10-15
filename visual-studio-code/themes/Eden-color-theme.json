@@ -296,7 +296,19 @@
     "mergeEditor.conflict.handledFocused.border": "#ff0000",
     "mergeEditor.conflict.handled.minimapOverViewRuler": "#ff0000",
     "mergeEditor.conflict.unhandled.minimapOverViewRuler": "#ff0000",
-    "mergeEditor.conflictingLines.background": "#ff0000"
+    "mergeEditor.conflictingLines.background": "#ff0000",
+    "panel.background": "#1F1F1F",
+    "panel.border": "#333333",
+    "panel.dropBorder": "#292929",
+    "panelTitle.activeBorder": "#FCE393",
+    "panelTitle.activeForeground": "#D6D6D6",
+    "panelTitle.inactiveForeground": "#666666",
+    "panelInput.border": "#292929",
+    "panelSection.border": "#ff0000",
+    "panelSection.dropBackground": "#ff0000",
+    "panelSectionHeader.background": "#ff0000",
+    "panelSectionHeader.border": "#ff0000",
+    "panelSectionHeader.foreground": "#ff0000"
   },
   "tokenColors": []
 }
