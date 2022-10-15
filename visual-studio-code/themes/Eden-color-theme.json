@@ -84,7 +84,20 @@
     "list.deemphasizedForeground": "#ff0000",
     "tree.indentGuidesStroke": "#141414",
     "tree.tableColumnsBorder": "#ff0000",
-    "tree.tableOddRowsBackground": "#ff0000"
+    "tree.tableOddRowsBackground": "#ff0000",
+    "activityBar.background": "#141414",
+    "activityBar.dropBorder": "#FCE393",
+    "activityBar.foreground": "#FCE393",
+    "activityBar.inactiveForeground": "#7A7A7A",
+    "activityBar.border": "#0A0A0A",
+    "activityBarBadge.background": "#FCE393",
+    "activityBarBadge.foreground": "#292929",
+    "activityBar.activeBorder": "#FCE393",
+    "activityBar.activeBackground": "#292929",
+    "activityBar.activeFocusBorder": "#fdebb3",
+    "activityBarItem.settingsProfilesForeground": "#7A7A7A",
+    "activityBarItem.settingsProfilesBackground": "#141414",
+    "activityBarItem.settingsProfilesHoverForeground": "#FCE393"
   },
   "tokenColors": []
 }
