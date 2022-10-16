@@ -561,7 +561,8 @@
     "charts.yellow": "#f8c727",
     "charts.orange": "#FFA337",
     "charts.green": "#0ac254",
-    "charts.purple": "#9d44b5"
+    "charts.purple": "#9d44b5",
+    "ports.iconRunningProcessForeground": "#89cdf2"
   },
   "tokenColors": []
 }
