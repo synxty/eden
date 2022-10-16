@@ -533,7 +533,27 @@
     "debugConsole.warningForeground": "#ff0000",
     "debugConsole.errorForeground": "#ff0000",
     "debugConsole.sourceForeground": "#ff0000",
-    "debugConsoleInputIcon.foreground": "#ff0000"
+    "debugConsoleInputIcon.foreground": "#ff0000",
+    "notebook.editorBackground": "#1f1f1f",
+    "notebook.cellBorderColor": "#0A0A0A",
+    "notebook.cellHoverBackground": "#292929",
+    "notebook.cellInsertionIndicator": "#FCE393",
+    "notebook.cellStatusBarItemHoverBackground": "#292929",
+    "notebook.cellToolbarSeparator": "#0A0A0A",
+    "notebook.cellEditorBackground": "#141414",
+    "notebook.focusedCellBackground": "#292929",
+    "notebook.focusedEditorBorder": "#292929",
+    "notebook.outputContainerBackgroundColor": "#ff0000",
+    "notebook.outputContainerBorderColor": "#ff0000",
+    "notebook.selectedCellBackground": "#ff0000",
+    "notebook.selectedCellBorder": "#ff0000",
+    "notebook.symbolHighlightBackground": "#ff0000",
+    "notebookScrollbarSlider.activeBackground": "#474747",
+    "notebookScrollbarSlider.background": "#3D3D3D",
+    "notebookScrollbarSlider.hoverBackground": "#474747",
+    "notebookStatusErrorIcon.foreground": "#F4413E",
+    "notebookStatusRunningIcon.foreground": "#85e1aa",
+    "notebookStatusSuccessIcon.foreground": "#0ac254"
   },
   "tokenColors": []
 }
