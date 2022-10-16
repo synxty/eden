@@ -553,7 +553,15 @@
     "notebookScrollbarSlider.hoverBackground": "#474747",
     "notebookStatusErrorIcon.foreground": "#F4413E",
     "notebookStatusRunningIcon.foreground": "#85e1aa",
-    "notebookStatusSuccessIcon.foreground": "#0ac254"
+    "notebookStatusSuccessIcon.foreground": "#0ac254",
+    "charts.foreground": "#F5F5F5",
+    "charts.lines": "#FCE393",
+    "charts.red": "#F4413E",
+    "charts.blue": "#129be5",
+    "charts.yellow": "#f8c727",
+    "charts.orange": "#FFA337",
+    "charts.green": "#0ac254",
+    "charts.purple": "#9d44b5"
   },
   "tokenColors": []
 }
