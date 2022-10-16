@@ -39,3 +39,14 @@ const Dracula: VampireProps = new Vampire({
   deathDate: 1476,
   weaknesses: ['Sunlight', 'Garlic'],
 });
+
+enum Direction {
+  Up = 1,
+  Down,
+  Left,
+  Right,
+}
+
+type Color = {
+  hex: string;
+};

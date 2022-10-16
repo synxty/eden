@@ -191,7 +191,7 @@
     "editorLightBulb.foreground": "#f8c727",
     "editorLightBulbAutoFix.foreground": "#129be5",
     "editorBracketMatch.border": "#141414",
-    "editorBracketHighlight.foreground1": "#FCE393",
+    "editorBracketHighlight.foreground1": "#f8c727",
     "editorBracketHighlight.foreground2": "#c48fd3",
     "editorBracketHighlight.foreground3": "#129be5",
     "editorBracketPairGuide.activeBackground1": "#FCE393",
@@ -563,5 +563,105 @@
     "charts.purple": "#9d44b5",
     "ports.iconRunningProcessForeground": "#89cdf2"
   },
-  "tokenColors": []
+  "tokenColors": [
+    {
+      "name": "Comment Block TS",
+      "scope": ["comment.block.ts"],
+      "settings": {
+        "foreground": "#525252"
+      }
+    },
+    {
+      "name": "Comment Line TS",
+      "scope": ["comment.line.double-slash.ts"],
+      "settings": {
+        "foreground": "#525252"
+      }
+    },
+    {
+      "name": "Keyword - Interface TS",
+      "scope": ["storage.type.interface.ts"],
+      "settings": {
+        "foreground": "#FCE393"
+      }
+    },
+    {
+      "name": "Keyword - Class TS",
+      "scope": ["storage.type.class.ts"],
+      "settings": {
+        "foreground": "#FCE393"
+      }
+    },
+    {
+      "name": "Keyword - Enum TS",
+      "scope": ["storage.type.enum.ts"],
+      "settings": {
+        "foreground": "#FCE393"
+      }
+    },
+    {
+      "name": "Keyword - Type TS",
+      "scope": ["storage.type.type.ts"],
+      "settings": {
+        "foreground": "#FCE393"
+      }
+    },
+    {
+      "name": "Keyword - New TS",
+      "scope": ["keyword.operator.new.ts"],
+      "settings": {
+        "foreground": "#FCE393",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Keyword - Others TS",
+      "scope": ["storage.type.ts"],
+      "settings": {
+        "foreground": "#FCE393"
+      }
+    },
+    {
+      "name": "Keyword - Control Flow TS",
+      "scope": ["keyword.control.flow.ts"],
+      "settings": {
+        "foreground": "#FCE393"
+      }
+    },
+    {
+      "name": "Property TS",
+      "scope": ["storage.type.property.ts"],
+      "settings": {
+        "foreground": "#FCE393"
+      }
+    },
+    {
+      "name": "Annotation TS",
+      "scope": ["keyword.operator.type.annotation.ts"],
+      "settings": {
+        "foreground": "#FCE393"
+      }
+    },
+    {
+      "name": "Assignment TS",
+      "scope": ["keyword.operator.assignment.ts"],
+      "settings": {
+        "foreground": "#FCE393"
+      }
+    },
+    {
+      "name": "Key-Value separator TS",
+      "scope": ["punctuation.separator.key-value.ts"],
+      "settings": {
+        "foreground": "#FCE393"
+      }
+    },
+    {
+      "name": "Arithmetic separator TS",
+      "scope": ["keyword.operator.arithmetic.ts"],
+      "settings": {
+        "foreground": "#FCE393"
+      }
+    }
+  ]
 }
