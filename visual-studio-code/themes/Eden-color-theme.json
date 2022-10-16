@@ -513,7 +513,27 @@
     "symbolIcon.textForeground": "#7A7A7A",
     "symbolIcon.typeParameterForeground": "#ff0000",
     "symbolIcon.unitForeground": "#ff0000",
-    "symbolIcon.variableForeground": "#89cdf2"
+    "symbolIcon.variableForeground": "#89cdf2",
+    "debugIcon.breakpointForeground": "#F4413E",
+    "debugIcon.breakpointDisabledForeground": "#7A7A7A",
+    "debugIcon.breakpointUnverifiedForeground": "#ff00ea",
+    "debugIcon.breakpointCurrentStackframeForeground": "#ff0000",
+    "debugIcon.breakpointStackframeForeground": "#ff0000",
+    "debugIcon.startForeground": "#ff0000",
+    "debugIcon.pauseForeground": "#ff0000",
+    "debugIcon.stopForeground": "#ff0000",
+    "debugIcon.disconnectForeground": "#ff0000",
+    "debugIcon.restartForeground": "#ff0000",
+    "debugIcon.stepOverForeground": "#ff0000",
+    "debugIcon.stepIntoForeground": "#ff0000",
+    "debugIcon.stepOutForeground": "#ff0000",
+    "debugIcon.continueForeground": "#ff0000",
+    "debugIcon.stepBackForeground": "#ff0000",
+    "debugConsole.infoForeground": "#ff0000",
+    "debugConsole.warningForeground": "#ff0000",
+    "debugConsole.errorForeground": "#ff0000",
+    "debugConsole.sourceForeground": "#ff0000",
+    "debugConsoleInputIcon.foreground": "#ff0000"
   },
   "tokenColors": []
 }
