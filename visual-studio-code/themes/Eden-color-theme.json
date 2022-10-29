@@ -1,5 +1,7 @@
 {
   "name": "Eden",
+  "semanticHighlighting": true,
+  "semanticClass": "theme.eden",
   "colors": {
     "focusBorder": "#FCE393",
     "foreground": "#D6D6D6",
@@ -191,7 +193,7 @@
     "editorLightBulb.foreground": "#f8c727",
     "editorLightBulbAutoFix.foreground": "#129be5",
     "editorBracketMatch.border": "#141414",
-    "editorBracketHighlight.foreground1": "#f8c727",
+    "editorBracketHighlight.foreground1": "#FCE393",
     "editorBracketHighlight.foreground2": "#c48fd3",
     "editorBracketHighlight.foreground3": "#129be5",
     "editorBracketPairGuide.activeBackground1": "#FCE393",
@@ -565,102 +567,101 @@
   },
   "tokenColors": [
     {
-      "name": "Comment Block TS",
-      "scope": ["comment.block.ts"],
+      "name": "Comments",
+      "scope": ["comment.block", "comment.line.double-slash"],
       "settings": {
         "foreground": "#525252"
       }
     },
     {
-      "name": "Comment Line TS",
-      "scope": ["comment.line.double-slash.ts"],
-      "settings": {
-        "foreground": "#525252"
-      }
-    },
-    {
-      "name": "Keyword - Interface TS",
-      "scope": ["storage.type.interface.ts"],
-      "settings": {
-        "foreground": "#FCE393"
-      }
-    },
-    {
-      "name": "Keyword - Class TS",
-      "scope": ["storage.type.class.ts"],
+      "name": "Keywords",
+      "scope": [
+        "storage.type",
+        "keyword.control.flow",
+        "storage.type.property",
+        "keyword.operator.type.annotation",
+        "keyword.operator.assignment",
+        "punctuation.separator.key-value",
+        "keyword.operator.arithmetic",
+        "punctuation.definition.template-expression",
+        "keyword.control.export",
+        "keyword.control.import"
+      ],
       "settings": {
         "foreground": "#FCE393"
       }
     },
     {
-      "name": "Keyword - Enum TS",
-      "scope": ["storage.type.enum.ts"],
-      "settings": {
-        "foreground": "#FCE393"
-      }
-    },
-    {
-      "name": "Keyword - Type TS",
-      "scope": ["storage.type.type.ts"],
-      "settings": {
-        "foreground": "#FCE393"
-      }
-    },
-    {
-      "name": "Keyword - New TS",
-      "scope": ["keyword.operator.new.ts"],
+      "name": "Keyword - New",
+      "scope": ["keyword.operator.new"],
       "settings": {
         "foreground": "#FCE393",
         "fontStyle": "bold"
       }
     },
     {
-      "name": "Keyword - Others TS",
-      "scope": ["storage.type.ts"],
+      "name": "Class call",
+      "scope": ["entity.name.type.class", "variable.other.constant"],
       "settings": {
-        "foreground": "#FCE393"
+        "foreground": "#85E1AA"
       }
     },
     {
-      "name": "Keyword - Control Flow TS",
-      "scope": ["keyword.control.flow.ts"],
+      "name": "Variables and object properties",
+      "scope": ["variable.other.property"],
       "settings": {
-        "foreground": "#FCE393"
+        "foreground": "#E0E0E0"
       }
     },
     {
-      "name": "Property TS",
-      "scope": ["storage.type.property.ts"],
+      "name": "Function Name",
+      "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#FCE393"
+        "foreground": "#c48fd3"
       }
     },
     {
-      "name": "Annotation TS",
-      "scope": ["keyword.operator.type.annotation.ts"],
+      "name": "Entity Names",
+      "scope": [
+        "entity.name.type.interface.ts",
+        "entity.name.type.ts",
+        "entity.name.type.alias.ts",
+        "entity.name.type.enum.ts",
+        "support.type.primitive.ts"
+      ],
       "settings": {
-        "foreground": "#FCE393"
+        "foreground": "#89cdf2",
+        "fontStyle": "italic"
       }
     },
     {
-      "name": "Assignment TS",
-      "scope": ["keyword.operator.assignment.ts"],
+      "name": "Variable Parameter",
+      "scope": ["variable.parameter", "variable.other.object"],
       "settings": {
-        "foreground": "#FCE393"
+        "foreground": "#ffbf73",
+        "fontStyle": "italic"
       }
     },
     {
-      "name": "Key-Value separator TS",
-      "scope": ["punctuation.separator.key-value.ts"],
+      "name": "Keyword This",
+      "scope": ["variable.language.this"],
       "settings": {
-        "foreground": "#FCE393"
+        "foreground": "#85e1aa",
+        "fontStyle": "italic"
       }
     },
     {
-      "name": "Arithmetic separator TS",
-      "scope": ["keyword.operator.arithmetic.ts"],
+      "name": "String",
+      "scope": ["string.quoted", "string.template"],
       "settings": {
-        "foreground": "#FCE393"
+        "foreground": "#FFBF73"
+      }
+    },
+    {
+      "name": "Numbers",
+      "scope": ["constant.numeric"],
+      "settings": {
+        "foreground": "#85e1aa"
       }
     }
   ]

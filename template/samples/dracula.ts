@@ -40,6 +40,8 @@ const Dracula: VampireProps = new Vampire({
   weaknesses: ['Sunlight', 'Garlic'],
 });
 
+let Hello = `Number ${132}`;
+
 enum Direction {
   Up = 1,
   Down,
