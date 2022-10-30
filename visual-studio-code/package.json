@@ -3,6 +3,7 @@
   "displayName": "Eden",
   "description": "",
   "version": "0.0.1",
+  "publisher": "synxty",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -14,8 +15,14 @@
       {
         "label": "Eden",
         "uiTheme": "vs-dark",
-        "path": "./themes/Eden-color-theme.json"
+        "path": "./themes/eden-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "dark",
+    "theme",
+    "color-theme"
+  ],
+  "preview": true
 }
